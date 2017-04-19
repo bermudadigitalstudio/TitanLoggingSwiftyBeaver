@@ -1,0 +1,12 @@
+{
+  "autoPin": true,
+  "pins": [
+    {
+      "package": "SwiftyBeaver",
+      "reason": null,
+      "repositoryURL": "https://github.com/SwiftyBeaver/SwiftyBeaver.git",
+      "version": "1.2.0"
+    }
+  ],
+  "version": 1
+}

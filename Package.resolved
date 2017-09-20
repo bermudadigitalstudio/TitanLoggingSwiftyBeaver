@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SwiftyBeaver",
+        "repositoryURL": "https://github.com/SwiftyBeaver/SwiftyBeaver.git",
+        "state": {
+          "branch": null,
+          "revision": "9b8c75a7beb5b08bbc85132e8fc1898e8b928531",
+          "version": "1.4.1"
+        }
+      },
+      {
+        "package": "TitanCore",
+        "repositoryURL": "https://github.com/bermudadigitalstudio/TitanCore.git",
+        "state": {
+          "branch": null,
+          "revision": "584bfefddc42ec31673ecc78194a170f29578dc5",
+          "version": "0.3.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}

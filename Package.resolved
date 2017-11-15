@@ -6,17 +6,17 @@
         "repositoryURL": "https://github.com/SwiftyBeaver/SwiftyBeaver.git",
         "state": {
           "branch": null,
-          "revision": "9b8c75a7beb5b08bbc85132e8fc1898e8b928531",
-          "version": "1.4.1"
+          "revision": "36858b23737d8480a7bee7ec5407780fab3c0aea",
+          "version": "1.4.3"
         }
       },
       {
-        "package": "TitanCore",
-        "repositoryURL": "https://github.com/bermudadigitalstudio/TitanCore.git",
+        "package": "Titan",
+        "repositoryURL": "https://github.com/bermudadigitalstudio/Titan.git",
         "state": {
           "branch": null,
-          "revision": "584bfefddc42ec31673ecc78194a170f29578dc5",
-          "version": "0.3.0"
+          "revision": "2378f79390ce4ba0f5c5f560e1c24bb587568533",
+          "version": "0.8.0"
         }
       }
     ]
